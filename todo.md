@@ -1,0 +1,3 @@
+- Get A Image On The Screen
+- Make It Black And White That Is Greyscale It For The Cascade Algoritm
+- 
